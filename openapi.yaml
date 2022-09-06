@@ -10,7 +10,7 @@ info:
   title: Example.com # Replace with your API title
   # Keep it simple. Don't add "API" or version at the end of the string.
 
-  termsOfService: 'https://example.com/terms/' # [Optional] Replace with an URL to your ToS
+  termsOfService: 'https://example.com/terms' # [Optional] Replace with an URL to your ToS
   contact:
     email: contact@example.com # [Optional] Replace with your contact email
     url: 'http://example.com/contact' # [Optional] Replace with link to your contact form
